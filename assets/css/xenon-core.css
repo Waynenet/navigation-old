@@ -1221,6 +1221,13 @@ body {
         overflow: visible;
         position: relative
     }
+    .sidebar-menu.collapsed .ip-pic {
+        padding: 18px 0
+    }
+    .sidebar-menu.collapsed .ip-pic .ip-collapsed {
+        display: block;
+        text-align: center
+    }
     .sidebar-menu.collapsed .logo-env {
         padding: 18px 0
     }
